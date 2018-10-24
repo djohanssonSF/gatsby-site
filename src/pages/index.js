@@ -8,11 +8,7 @@ const IndexPage = () => (
   <Layout>
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
-<<<<<<< HEAD
       <h1>What about Hello World??</h1>
-=======
-    <h1>But what about Hello World ?<h1>
->>>>>>> 75eab88027e5b8297448a1ba033ee243668c1ed5
     <p>Now go build something great.</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
